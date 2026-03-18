@@ -1,2 +1,3 @@
 # Ecommerce-Sales-Analysis-SQL-Python
-Ecommerce Project using Python and SQL
+Explored sales performance, product trends, and customer behavior to support marketing and inventory decisions.
+**Tools:** SQL, Excel, Power BI
